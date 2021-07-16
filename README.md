@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [I'm trying to improve myself in coding](https://github.com/Lufzys/Lufzys)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **CSharp**
 
