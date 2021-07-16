@@ -15,3 +15,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lufzys&show_icons=true&locale=en&layout=compact" alt="lufzys" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lufzys&show_icons=true&locale=en" alt="lufzys" /></p>
+
+https://github.com/lysep-corp/CoreCheatCSGO-LSREMAKE
+https://github.com/lysep-corp/WindowsUI
