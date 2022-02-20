@@ -25,6 +25,9 @@
 <h3 align="left">CSSExternal - CS:Source Cheat</h3>
 <p>https://github.com/Lufzys/CSSExternal</p>
 
+<h3 align="left">CSGO Cheat - DirectX Overlay</h3>
+<p>https://github.com/Lufzys/CSGOCheat</p>
+
 <h3 align="left">EasyCube - Assault Cube Cheat</h3>
 <p>https://github.com/Lufzys/EasyCube</p>
 
