@@ -16,6 +16,9 @@
 <h3 align="left">External User CMD -  for every source engine games (without shellcode)</h3>
 <p>https://github.com/Lufzys/ExternalUserCMD</p>
 
+<h3 align="left">Left4Sharp - Left4Dead2 Internal Cheat (with interfaces)</h3>
+<p>https://github.com/Lufzys/Left4Sharp</p>
+
 <h3 align="left">CoreCheat - CSGO Cheat</h3>
 <p>https://github.com/lysep-corp/CoreCheatCSGO-LSREMAKE</p>
 
