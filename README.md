@@ -16,6 +16,9 @@
 <h3 align="left">External User CMD -  for every source engine games (without shellcode)</h3>
 <p>https://github.com/Lufzys/ExternalUserCMD</p>
 
+<h3 align="left">SEDumper - Source Engine Games Dumper - C# Internal (with Interfaces)</h3>
+<p>https://github.com/Lufzys/SEDumper</p>
+
 <h3 align="left">Left4Sharp - Left4Dead2 C# Internal Cheat (with interfaces)</h3>
 <p>https://github.com/Lufzys/Left4Sharp</p>
 
