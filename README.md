@@ -31,6 +31,9 @@
 <h3 align="left">CSSExternal - CS:Source Cheat</h3>
 <p>https://github.com/Lufzys/CSSExternal</p>
 
+<h3 align="left">CSSInternal - CS:Source Cheat</h3>
+<p>https://github.com/Lufzys/CSSInternal</p>
+
 <h3 align="left">CSGO Cheat - DirectX Overlay</h3>
 <p>https://github.com/Lufzys/CSGOCheat</p>
 
