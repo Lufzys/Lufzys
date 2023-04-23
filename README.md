@@ -5,7 +5,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lufzys&show_icons=true&theme=dark&locale=en" alt="lufzys" /></p>
 
 <h3 align="left">My Discord Server</h3>
-<p>[Click!](https://discord.gg/eDFbdxufP9)</p>
+<p>https://discord.gg/eDFbdxufP9</p>
 
 <h3 align="left">Memory Read/Write Class</h3>
 <p>https://github.com/Lufzys/Memory</p>
