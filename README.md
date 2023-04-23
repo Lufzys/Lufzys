@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan aka Lufzys</h1>
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Lufzys&style=flat-square)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lufzys&show_icons=true&theme=dark&locale=en&layout=compact" alt="lufzys" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lufzys&show_icons=true&theme=dark&locale=en" alt="lufzys" /></p>
