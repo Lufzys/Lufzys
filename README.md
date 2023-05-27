@@ -7,8 +7,8 @@
 <h3 align="left">Memory Read/Write Class</h3>
 <p>https://github.com/Lufzys/Memory</p>
 
-<h3 align="left">C# Nonflick GDI Overlay</h3>
-<p>https://github.com/Lufzys/LFOverlay</p>
+<h3 align="left">C# Internal - OpenGL Hook</h3>
+<p>https://github.com/Lufzys/InternalCSharp</p>
 
 <h3 align="left">Immortal Valorant Cheat - (Color Based)</h3>
 <p>https://www.unknowncheats.me/forum/valorant/432448-immortal-valorant-cheat-color-based.html</p>
